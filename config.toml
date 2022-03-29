@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'KJ Static Site'
+theme = "ananke"
